@@ -1,0 +1,30 @@
+'parivar':
+{'Preeti':'21-JAN',
+'Mohan':'02-MAR',
+ 'Vipul':'15-DEC',
+ 'Shikha':'08-DEC',
+ 'Krati':'01-DEC',
+ 'Amit':'23-NOV',
+ 'charu':'31-OCT',
+ 'Saanvi':'02-OCT',
+ 'Yuv':'17-JUN',
+ 'Ashi':'04-April',
+ 'Atul':'21-Mar'
+ },
+
+ 'vellapanti':
+ {
+ 'Pranav':'31-DEC',
+ 'Saurav':'01-OCT',
+ 'Sahay':'16-SEP',
+ 'Pawan':'11-SEP',
+ 'Parimal':'02-SEP',
+ 'Raj':'11-JUL',
+ 'Santosh':'29-MAY',
+ 'Auna':'22-MAR',
+ 'Mohan':'02-MAR',
+ 'Uday':'01-MAR',
+ 'Richa':'22-FEB',
+ 'Vikas':'19-FEB'
+
+ }

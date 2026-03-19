@@ -1,0 +1,32 @@
+# Hindi to English Glossary
+# Format: hindi_word,english_translation
+# Lines starting with # are comments
+
+# Relationship terms
+mama,maternal uncle
+mami,maternal aunt
+chacha,paternal uncle
+chachi,paternal aunt
+dada,paternal grandfather
+dadi,paternal grandmother
+nana,maternal grandfather
+nani,maternal grandmother
+mausi,maternal aunt
+bua,paternal aunt
+fufa,paternal aunt's husband
+ji,respectful suffix
+
+
+# Below terms should NOT be translated by Google - keep them as-is
+[DO_NOT_TRANSLATE]
+Ms Bilkul
+
+
+
+
+# 
+
+
+
+
+
